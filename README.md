@@ -1,18 +1,41 @@
-# **Hello, World! 👋 I'm Sadhana**
+## 👋 Hello, I'm Sadhana
 
-## 🌟 **Tech Enthusiast | Lifelong Learner | Innovation Explorer**  
+### 💻 Computer Science Student | Machine Learning Enthusiast
 
-Welcome to my GitHub space! I'm a passionate tech geek who thrives on discovering new concepts, diving deep into emerging technologies, and staying ahead of the ever-evolving tech landscape. 🚀  
+I am a Computer Science undergraduate with an interest in **machine learning and data-driven problem solving**. I enjoy learning new concepts, building projects, and applying theoretical knowledge to practical scenarios.
 
-### 💡 **What Drives Me?**
-- **Continuous Learning:** Every day is an opportunity to explore something new.
-- **Problem Solving:** Tackling challenges and debugging my way to solutions.
-- **Innovation:** Embracing advancements in AI, software development, and more.
+---
 
-### 🎯 **My Journey**
-I'm on a mission to expand my knowledge, build exciting projects, and collaborate with like-minded individuals. If you're interested in tech discussions, brainstorming ideas, or just sharing cool insights, let's connect!
+### 🔍 Areas of Interest
 
-### 🤝 **Let's Grow Together!**
-I believe in the power of community and shared learning. Hope you’ll join me on this journey of curiosity and innovation!  
+* Machine Learning
+* Data Analysis
+* Artificial Intelligence (Basics)
 
+---
 
+### 🚀 What I Do
+
+* Build and experiment with machine learning models
+* Work on small projects to strengthen my fundamentals
+* Continuously learn and explore new tools and technologies
+
+---
+
+### 🎯 Current Focus
+
+* Strengthening core concepts in machine learning
+* Improving problem-solving and implementation skills
+* Building practical projects for hands-on experience
+
+---
+
+### 🤝 Collaboration
+
+I am open to learning opportunities, collaborations, and discussions related to machine learning and technology.
+
+---
+
+### 📫 Connect
+
+Feel free to explore my repositories and connect with me.
